@@ -1,3 +1,6 @@
+<section class="slideShow">
+    <img src="public/images/banner.jpg" alt="" />
+</section>
 <section class="service">
     <div class="container">
         <div class="row">
