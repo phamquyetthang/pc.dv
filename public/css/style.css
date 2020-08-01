@@ -33,6 +33,11 @@ ul
     width: 100%;
     height: 100%;
 }
+.container-t{
+    width: 100%;
+    height: 100%;
+    padding: 32px;
+}
 .container .row
 {
     width: 100%;
@@ -428,7 +433,7 @@ ul
     cursor: pointer;
 }
 .btn-fixed-info i{
-    font-size: 22px;
+    font-size: 32px;
     color: white;
 }
 .btn-fixed-info img{
@@ -441,22 +446,17 @@ ul
     margin-top: 64px;
     background-color: rgba(0, 0, 0, 0.8);
     color: white;
-    padding-top: 12px;
-    padding-bottom: 12px;
-}
-.footer_item{
-    padding-left: 4px;
-    padding-right: 4px;
-    width: 50%;
+    padding: 8px;
 }
 .footer a{
-    color: white;
+    color: #007bff;
     font-style: italic;
 }
-.grid_footer{
-    display: grid;
+.flex_footer{
+    display: flex;
     width: 100%;
-    grid-template-columns: repeat(2,1fr);
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 /* responsive */
@@ -583,6 +583,33 @@ ul
     .product-item
     {
         padding: 0;
+    }
+}
+
+@media screen and (max-width: 960px){
+    .flex_footer{
+        flex-direction: column;
+    }
+    .footer_item{
+        margin-bottom: 16px;
+        max-width: 100%;
+        overflow: hidden;
+    }
+    .myminimap{
+        width: 340px;
+        overflow: hidden;
+    }
+    .mymap{
+        width: 100%;
+        overflow: hidden;
+    }
+    .container-t{
+        padding: 16px;
+        padding-top: 32px;
+    }
+    .header-logo h1{
+        margin-left: -8px;
+        display: block;
     }
 }
 @media screen and (max-width: 1024px){
