@@ -17,7 +17,8 @@
         <div class="container">
             <div class="row">
                 <div class="header-logo">
-                    <img src="public/images/logo.png" alt="" />
+                    <img src="public/logo3.png" alt="" />
+                    <h1>Nội Thất T & T</h1>
                 </div>
                 <div class="header-nav">
                     <ul class="nav">
@@ -25,7 +26,7 @@
                         <li><a href="">dự án</a></li>
                         <li><a href="">dịch vụ & bảng giá</a></li>
                         <li><a href="">hình ảnh</a></li>
-                        <li><a href="">tin tức</a></li>
+                        <li><a href="">bài viết</a></li>
                         <li><a href="">liên hệ</a></li>
                     </ul>
                 </div>

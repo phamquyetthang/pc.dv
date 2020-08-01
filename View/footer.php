@@ -1,7 +1,31 @@
+<footer class="footer">
+  <div class="container">
+    <!-- <div class="grid">
+    <div class="row">
+      
+      <div class="footer_item"> -->
+    <h2>CÔNG TY Cổ Phần Xây Dựng Và Thương Mại T & T</h2>
+    Trụ Sở Chính : Thị Tứ Tân Thịnh - Yên Thắng - Ý Yên - Nam Định <br>
+    Địa chỉ VP: Số 6 Ngõ 4 Mễ Trì Thượng - Đại Lộ Thăng Long - Nam Từ Liêm - Hà Nội.
+    <a href="https://goo.gl/maps/gudjU2A9rGKbmAzv6" target="_blank">
+      <i class="fas fa-location-arrow"></i>
+    </a>
+    </br>
+    <!-- </div>
+        <div class="footer_item"> -->
+    🏙️ Cơ sở sản xuất: Thôn Tam Đa xã Thanh Văn huyện Thanh Oai Tp HN <br>
+    ☎️☎️☎️Hotline : <a href="tel: 0981202328">098 120 2328</a> Hoặc <a href="tel: 0981202328">0917605168</a><br>
+    Email : nguyenthanhnd0812@gmail.com
+    <!-- </div> -->
+    <!-- </div>
+    </div>
+  </div> -->
+  </div>
+</footer>
 <div class="fixed-info">
   <ul>
     <li class="btn-fixed-info">
-      <a href="tel: 0388811206">
+      <a href="tel: 0917605168">
         <i class="fas fa-phone-alt"></i>
       </a>
     </li>
@@ -11,7 +35,7 @@
       </a>
     </li>
     <li class="btn-fixed-info">
-      <a href="https://zalo.me/0388811206" target="_blank">
+      <a href="https://zalo.me/0981202328" target="_blank">
         <img src="public/images/zalo_sharelogo.png" alt="logo zalo">
       </a>
     </li>
@@ -40,7 +64,7 @@
 </script>
 
 <!-- Your Chat Plugin code -->
-<div class="fb-customerchat" attribution=setup_tool page_id="198878614076939" theme_color="#ff5ca1" logged_in_greeting="Chào" logged_out_greeting="Chào">
+<div class="fb-customerchat" attribution=setup_tool page_id="198878614076939" theme_color="#ff5ca1" logged_in_greeting="T&T xin chào" logged_out_greeting="T&T xin chào">
 </div>
 
 
@@ -49,8 +73,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
 <script src="public/js/main.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
