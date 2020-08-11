@@ -15,7 +15,7 @@
       </div>
       <div class="footer_item">
         <div class="myminimap">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1975.8681717635718!2d105.78203579147257!3d21.0366361911331!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313454b55b011e49%3A0x9406c12dc4604160!2zxJDhuqFpIGjhu41jIFF14buRYyBnaWEgSMOgIE7hu5lpIChWTlUp!5e0!3m2!1svi!2s!4v1596268839964!5m2!1svi!2s" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.455118393836!2d105.77758894988742!3d21.003555293946945!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31345340134a8e75%3A0x44389de3021fb5ae!2zQ0_Mgk5HIFRZIEPhu5UgUGjhuqduIFjDonkgROG7sW5nIFbDoCBUaMawxqFuZyBN4bqhaSBUICYgVA!5e0!3m2!1svi!2s!4v1597156857027!5m2!1svi!2s" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
       </div>
     </div>

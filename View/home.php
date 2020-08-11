@@ -13,7 +13,7 @@
             </div>
 
             <div class="service-content grid">
-                <div class="service-item">
+                <!-- <div class="service-item">
                     <div class="service-img">
                         <img src="public/images/service1.png" alt="">
                     </div>
@@ -24,7 +24,7 @@
                         <span>Cung cấp dịch vụ giấy phép xây dựng nhanh chóng với chi phí hợp lý nhất tại
                             TPHCM.</span>
                     </div>
-                </div>
+                </div> -->
                 <div class="service-item">
                     <div class="service-img">
                         <img src="public/images/service2.png" alt="">
@@ -143,6 +143,20 @@
             </div>
 
             <div class="product-content">
+            <div class="product-item">
+                    <div class="product-img">
+                        <a href=""><img src="public/images/2.jpg" alt=""></a>
+                        <div class="product-link">
+                            <a href=""><i class="fas fa-share-alt"></i></a>
+                        </div>
+                    </div>
+                    <div class="product-name">
+                        Biệt thự Vinhome
+                    </div>
+                    <div class="product-description">
+                        <span>Thiết kế nội thất</span>
+                    </div>
+                </div>
                 <div class="product-item">
                     <div class="product-img">
                         <a href=""><img src="public/images/item1.jpg" alt=""></a>
@@ -151,10 +165,24 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Tư vấn và thi công nội thất</span>
+                    </div>
+                </div>
+                <div class="product-item">
+                    <div class="product-img">
+                        <a href=""><img src="public/images/1.jpg" alt=""></a>
+                        <div class="product-link">
+                            <a href=""><i class="fas fa-share-alt"></i></a>
+                        </div>
+                    </div>
+                    <div class="product-name">
+                        Biệt thự Vinhome
+                    </div>
+                    <div class="product-description">
+                        <span>Thiết kế nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -165,10 +193,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Tư vấn và thi công nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -179,10 +207,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Thiết kế nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -193,10 +221,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Tư vấn và thi công nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -207,10 +235,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Thiết kế nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -221,24 +249,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
-                    </div>
-                </div>
-                <div class="product-item">
-                    <div class="product-img">
-                        <a href=""><img src="public/images/item7.jpg" alt=""></a>
-                        <div class="product-link">
-                            <a href=""><i class="fas fa-share-alt"></i></a>
-                        </div>
-                    </div>
-                    <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
-                    </div>
-                    <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Tư vấn và thi công nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -249,10 +263,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Thiết kế nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -263,10 +277,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Tư vấn và thi công nội thất</span>
                     </div>
                 </div>
                 <div class="product-item">
@@ -277,38 +291,10 @@
                         </div>
                     </div>
                     <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
+                        Biệt thự Vinhome
                     </div>
                     <div class="product-description">
-                        <span>thiết kế nội thất</span>
-                    </div>
-                </div>
-                <div class="product-item">
-                    <div class="product-img">
-                        <a href=""><img src="public/images/item11.jpg" alt=""></a>
-                        <div class="product-link">
-                            <a href=""><i class="fas fa-share-alt"></i></a>
-                        </div>
-                    </div>
-                    <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
-                    </div>
-                    <div class="product-description">
-                        <span>thiết kế nội thất</span>
-                    </div>
-                </div>
-                <div class="product-item">
-                    <div class="product-img">
-                        <a href=""><img src="public/images/item12.jpg" alt=""></a>
-                        <div class="product-link">
-                            <a href=""><i class="fas fa-share-alt"></i></a>
-                        </div>
-                    </div>
-                    <div class="product-name">
-                        Biệt thự Chị Thúy – Q7
-                    </div>
-                    <div class="product-description">
-                        <span>thiết kế nội thất</span>
+                        <span>Thiết kế nội thất</span>
                     </div>
                 </div>
             </div>
@@ -323,7 +309,7 @@
 </div>
 
 
-<div class="partner">
+<!-- <div class="partner">
     <div class="container">
         <div class="row">
             <div class="title">
@@ -348,15 +334,15 @@
             <div class="dot"></div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 <div class="mservice">
     <div class="container">
         <div class="row">
             <div class="title">
-                <h2>Vì sao bạn nên chọn redhome</h2>
-                <p>REDHOME sáng tạo nên những ngôi nhà hiện đại nhất cho khách hàng của mình</p>
+                <h2>Vì sao bạn nên chọn Nội thất T&T</h2>
+                <p>Nội thất T&T sáng tạo nên những ngôi nhà hiện đại nhất cho khách hàng của mình</p>
             </div>
             <div class="mservice-content">
                 <div class="mservice-item">
@@ -377,8 +363,7 @@
                     <div class="mservice-text">
                         <strong>DỊCH VỤ CHÚNG TÔI TỪ A ->Z</strong>
                         <p>
-
-                            Đến với REDHOME bạn yên tâm về giấy phép xây dựng, thiết kế, thi công. Đảm bảo hoàn
+                            Đến với Nội Thất T&T bạn yên tâm về giấy phép xây dựng, thiết kế, thi công. Đảm bảo hoàn
                             thành từ A->Z.
                         </p>
                     </div>
@@ -390,7 +375,7 @@
                     <div class="mservice-text">
                         <strong>THIẾT KẾ SÁNG TẠO</strong>
                         <p>
-                            Những kỹ sư thiết kế10 năm kinh nghiệm trong nghề, và lf đối tác hàng đầu tại Việt Nam.
+                            Những kỹ sư thiết kế có nhiều kinh nghiệm trong nghề, và nhiều đối tác hàng đầu tại Việt Nam.
                         </p>
                     </div>
                 </div>
@@ -412,7 +397,7 @@
                     <div class="mservice-text">
                         <strong>CHẤT LƯỢNG THI CÔNG</strong>
                         <p>
-                            Kỹ sư xây dựng được đào tạo chuyên nghiệp, và có nhiều năm kinh nghiệm trong nghề, giúp quý khách hàng yên tâm về các dịch vụ của REDHOME.
+                            Kỹ sư xây dựng được đào tạo chuyên nghiệp, và có nhiều năm kinh nghiệm trong nghề, giúp quý khách hàng yên tâm về các dịch vụ của Nội Thất T&T.
                         </p>
                     </div>
                 </div>

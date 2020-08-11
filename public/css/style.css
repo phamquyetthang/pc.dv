@@ -563,7 +563,7 @@ ul
         padding: 10px;
     }
     .btn-fixed-info i{
-        font-size: 16px;
+        font-size: 22px;
     }
 }
 
@@ -579,6 +579,9 @@ ul
     .service-content,.advisory,.product-content
     {
         grid-template-columns: repeat(4,1fr);
+    }
+    .service-content{
+        grid-template-columns: repeat(3,1fr);
     }
     .product-item
     {
@@ -610,6 +613,17 @@ ul
     .header-logo h1{
         margin-left: -8px;
         display: block;
+    }
+    .service-content{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .btn-fixed-info{
+        width: 32px;
+        height: 32px;
+        padding: 8px;
+    }
+    .btn-fixed-info i{
+        font-size: 16px;
     }
 }
 @media screen and (max-width: 1024px){
