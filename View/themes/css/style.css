@@ -401,14 +401,13 @@ ul {
 }
 
 /*advise*/
-.advise {
+/* .advise {
   margin-top: 100px;
   background-image: url(../img/advise.jpg);
 }
 
 .advise-title {
   text-align: center;
-  /* margin-top: 20px; */
   padding-top: 25px;
 }
 
@@ -445,7 +444,7 @@ ul {
 
 .video-link a {
   color: #ffffff;
-}
+} */
 
 /*blog*/
 
@@ -469,7 +468,7 @@ ul {
 
 .new-box img {
   width: 100%;
-  max-height: 290px;
+  height: 290px;
   border-radius: 5px;
 }
 
@@ -614,7 +613,11 @@ footer {
   font-size: 15px !important;
 }
 
-
+.footer a {
+  color: #17a2b8;
+  font-size: 15px;
+  font-style: italic;
+}
 
 /*logo-contact*/
 .logo-contact {
@@ -666,8 +669,8 @@ footer {
   background-color: rgba(0, 0, 0, 0.7);
   border-radius: 4px;
   padding: 8px 10px;
-  right: 4px;
-  top: 4px;
+  right: 6px;
+  top: 6px;
   cursor: pointer;
   display: none;
   align-items: center;
@@ -723,45 +726,102 @@ footer {
   opacity: 1;
 }
 
+.fixed-info {
+  position: fixed;
+  width: 50px;
+  z-index: 1020;
+  left: 8px;
+  bottom: 24px;
+  display: block;
+}
+
+.btn-fixed-info {
+  width: 46px;
+  height: 46px;
+  padding: 12px;
+  border-radius: 50%;
+  margin: 8px;
+  align-items: center;
+  background-color: #17a2b8;
+  cursor: pointer;
+}
+
+.btn-fixed-info i {
+  font-size: 32px;
+  color: white;
+}
+
+.btn-fixed-info img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
 /* responsive */
 @media only screen and (max-width: 63.9375em) {
-  body{
+  body {
     margin-left: 10px;
     margin-right: 10px;
   }
+
   .btn_open_nav {
     display: flex;
   }
+
   .header-nav {
     display: none;
+  }
+
+  .fixed-info {
+    left: 8px;
+  }
+
+  .fixed-info{
+    left: 8px;
+  }
+  .btn-fixed-info{
+      width: 42px;
+      height: 42px;
+      padding: 10px;
+  }
+  .btn-fixed-info i{
+      font-size: 22px;
   }
 }
 
 /* Mobile: width < 740px */
 @media only screen and (max-width: 46.1875em) {
-  h1{
+  h1 {
     font-size: 22px !important;
   }
-  h2{
+
+  h2 {
     font-size: 16px !important;
   }
-  p{
+
+  p {
     font-size: 14px !important;
   }
-  .banner{
+
+  .banner {
     max-height: 450px;
   }
-  .service{
+
+  .service {
     padding: 24px 0;
   }
+
   .slider>.content {
     text-align: center;
     width: 80%;
   }
-  .slider p{
+
+  .slider p {
     padding: 5px 20px;
     margin-bottom: 20px;
   }
+
   .slider h1 {
     padding: 10px 20px;
     line-height: 40px;
@@ -769,7 +829,8 @@ footer {
     border-radius: 20px;
     font-size: 23px;
   }
-  .control{
+
+  .control {
     font-size: 20px;
     width: 40px;
     height: 40px;
@@ -777,19 +838,24 @@ footer {
     align-items: center;
     justify-content: center;
   }
+
   .grid-3 {
     grid-template-columns: repeat(1, 1fr);
   }
+
   .swiper-container {
     max-width: 360px;
     margin: 0;
   }
+
   .new-box {
     grid-template-columns: repeat(1, 1fr);
   }
+
   .partner {
     grid-template-columns: repeat(3, 1fr);
   }
+
   .footer {
     max-width: 100%;
     grid-template-columns: repeat(1, 1fr);
@@ -807,7 +873,14 @@ footer {
   }
 
   .footer-title {
-    color: #ffffff/*  */;
+    color: #ffffff
+      /*  */
+    ;
+  }
+
+  .myminimap {
+    width: 330px;
+    overflow: hidden;
   }
 }
 
@@ -817,20 +890,25 @@ footer {
     right: 12px;
     top: 12px;
   }
-  .banner{
+
+  .banner {
     max-height: 650px;
   }
-  .service{
+
+  .service {
     padding: 24px 0;
   }
+
   .slider>.content {
     text-align: center;
     width: 80%;
   }
-  .slider p{
+
+  .slider p {
     padding: 5px 20px;
     margin-bottom: 20px;
   }
+
   .slider h1 {
     padding: 10px 20px;
     line-height: 40px;
@@ -838,13 +916,16 @@ footer {
     border-radius: 20px;
     font-size: 23px;
   }
+
   .grid-3 {
     grid-template-columns: repeat(2, 1fr);
   }
+
   .swiper-container {
     max-width: 740px;
     margin: 0;
   }
+
   .footer {
     max-width: 100%;
     grid-template-columns: repeat(2, 1fr);
@@ -862,6 +943,13 @@ footer {
   }
 
   .footer-title {
-    color: #ffffff/*  */;
+    color: #ffffff
+      /*  */
+    ;
   }
+
+  .new-box img {
+    height: 229px;
+  }
+
 }
